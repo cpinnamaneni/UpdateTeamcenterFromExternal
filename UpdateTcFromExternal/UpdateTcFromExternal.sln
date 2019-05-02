@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpdateTcFromExternal", "UpdateTcFromExternal\UpdateTcFromExternal.csproj", "{0579EA76-4962-41A6-B15B-1B4D12C5E136}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0579EA76-4962-41A6-B15B-1B4D12C5E136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0579EA76-4962-41A6-B15B-1B4D12C5E136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0579EA76-4962-41A6-B15B-1B4D12C5E136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0579EA76-4962-41A6-B15B-1B4D12C5E136}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36D18F4B-8446-411E-80C5-777953CC9AD2}
+	EndGlobalSection
+EndGlobal
